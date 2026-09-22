@@ -1,5 +1,5 @@
-* ###### **STUDENT NAME :- SHREYA SANTOSH DHURANDHAR**
-* ###### **ZPRN :- 125UAD1131**
+* ###### **STUDENT NAME :- SOHAM VYANKTESH KOTALWAR**
+* ###### **ZPRN :- 125UAD1121**
 * ###### **CLASS/DIV :- SY B.Tech-(F)**
 * ###### **COURSE NAME :- OOP's**
 * ###### **UNIT-1**
